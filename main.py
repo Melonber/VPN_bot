@@ -4,7 +4,7 @@ import qrcode
 from io import BytesIO
 
 # Задайте токен вашего бота
-TOKEN = '6245970380:AAEWCOwjRLo9J7d6c7xvgz1Ojjo_uQZPOQ0'
+TOKEN = ''
 
 # Создайте экземпляр бота
 bot = telebot.TeleBot(TOKEN)
